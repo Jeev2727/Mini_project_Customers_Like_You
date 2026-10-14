@@ -1,0 +1,21 @@
+metric,value
+test_months,2
+cutoff_date,2011-10-09
+train_rows,659811
+test_rows,116766
+train_share_%,84.96
+train_start,2009-12-01 07:45:00
+train_end,2011-10-07 16:06:00
+test_start,2011-10-09 10:13:00
+test_end,2011-12-09 12:50:00
+train_customers,5472
+test_customers,2423
+customers_in_both,2043
+customers_only_in_test,380
+test_pairs,95278
+held_out_pairs,63487
+held_out_customers,2311
+dropped_customer_not_in_matrix,13840
+dropped_product_not_in_matrix,4725
+eval_pairs_kept,44922
+eval_customers,1913
