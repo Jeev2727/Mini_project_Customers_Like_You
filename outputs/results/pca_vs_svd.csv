@@ -1,0 +1,11 @@
+measure,PCA,Truncated SVD
+k used,100,100
+Fit time (seconds),0.44,0.28
+"Peak memory during fit (MB, tracemalloc)",14.6,17.0
+Size of stored factors (MB),7.01,6.99
+"Variance explained (PCA) / matrix energy kept (SVD), %",44.9,47.1
+Relative reconstruction error,0.7424,0.7275
+"Hit rate at 10, reconstruct scoring",0.3853,0.3832
+"Hit rate at 10, cosine scoring",0.2337,0.2253
+Best-seller baseline hit rate at 10,0.2703,0.2703
+"What component 1 represents, in words","The same direction, measured around the average customer. Big buyers dominate the variance, so it still ranks customers by how much they buy (|r| = 0.97 and 0.89).","Overall volume: how much and how widely a customer buys. The top products are the best-selling lines, and the customer score follows total purchase value (|r| = 0.97) and number of products (|r| = 0.89)."
