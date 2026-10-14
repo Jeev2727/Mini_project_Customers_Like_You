@@ -18,8 +18,8 @@ How we fill this in:
 | 2026-10-13 | DE4 sparse matrix and index maps | Manavkrishna Manoj | `src/matrix.py` (816f978), `data/processed/` (not in Git) | Done |
 | 2026-10-13 | DE5 matrix report | Manavkrishna Manoj | `outputs/results/matrix_report.csv` (ff4de75) | Done |
 | 2026-10-13 | DE6 one-command rebuild | Manavkrishna Manoj | `src/build_matrix.py` (816f978) | Done |
-| | DE review of ML results for data issues | Manavkrishna Manoj | notes in `decision_log.md` or a commit message | To do |
-| | DE fresh clone check | Manavkrishna Manoj | `README.md` (how to run), `requirements.txt` | To do |
+| 2026-10-13 | DE review of ML results for data issues | Manavkrishna Manoj | notes in `decision_log.md` or a commit message | Done |
+| 2026-10-13 | DE fresh clone check | Manavkrishna Manoj | `README.md` (how to run), `requirements.txt` | Done |
 | 2026-10-13 | ML1 method decision before fitting | Jeevan Mandala | `decision_log.md` (entry 2, committed in 5fd02e0), `notebooks/02_choose_k.ipynb` (6678900) | Done |
 | 2026-10-13 | ML2 choosing k | Jeevan Mandala | `notebooks/02_choose_k.ipynb`, `outputs/figures/svd_k_selection.png`, `svd_singular_values.png` (6678900) | Done |
 | 2026-10-13 | ML3 recommendation function | Jeevan Mandala | `src/recommend.py`, `notebooks/03_recommend_and_evaluate.ipynb` (6678900) | Done |
