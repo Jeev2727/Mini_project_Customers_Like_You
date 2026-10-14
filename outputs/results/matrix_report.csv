@@ -1,0 +1,15 @@
+metric,value
+min_customers_per_product,10
+purchase_value,log1p(total quantity per customer and product)
+products_before_filter,4529
+products_kept,3686
+products_removed,843
+customers_before_filter,5472
+customers_lost_to_filter,1
+customers,5471
+products,3686
+non_zeros,413691
+sparsity_%,97.9486
+dense_memory_MB,153.86
+sparse_memory_MB,4.76
+dense_to_sparse_ratio,32.4

@@ -1,0 +1,8 @@
+step,rule,rows_removed,rows_remaining
+0,Raw dataset,0,1067371
+1,Remove cancellation invoices,19494,1047877
+2,Remove quantity <= 0,3457,1044420
+3,Remove price <= 0,2750,1041670
+4,Remove non-product codes,4668,1037002
+5,Remove missing Customer ID,234370,802632
+6,Remove exact duplicate lines,26055,776577
