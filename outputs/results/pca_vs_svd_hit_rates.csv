@@ -1,0 +1,6 @@
+method,scoring,hit_rate_at_10,ci_low,ci_high
+SVD,reconstruct,0.3832,0.3617,0.4072
+PCA,reconstruct,0.3853,0.3638,0.4083
+SVD,cosine,0.2253,0.2059,0.2426
+PCA,cosine,0.2337,0.2143,0.252
+Best sellers,baseline,0.2703,0.2504,0.2896

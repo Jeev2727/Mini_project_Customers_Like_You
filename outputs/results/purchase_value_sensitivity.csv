@@ -1,0 +1,4 @@
+purchase value,reconstruct_hit_rate,ci_low,ci_high,cosine_hit_rate,baseline_hit_rate
+log1p(total quantity per customer and product),0.3901,0.3654,0.4148,0.2269,0.2643
+total quantity per customer and product (raw),0.2311,0.2099,0.253,0.1322,0.2643
+1 if the customer ever bought the product,0.4177,0.3908,0.4445,0.229,0.2643
